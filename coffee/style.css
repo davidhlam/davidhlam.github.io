@@ -1,0 +1,35 @@
+.menus {
+	color: #8A4B08;
+}
+
+#mainhead {
+	color:#610B21;
+	font-family: "Lucinda Console";
+}
+
+.p1 {
+	color:red;
+	font-family: helvetica, georgia;
+}
+
+.p2 {
+	color:blue;
+	font-family: courier, times;
+}
+
+.p3 {
+	color:green;
+	font-family: "Comic Sans MS";
+}
+
+.p4 {
+	color:#5F04B4;
+	font-family: Verdana;
+}
+
+.p5 {
+	color:#8A0829;
+	font-family: Helvetica;
+}
+
+

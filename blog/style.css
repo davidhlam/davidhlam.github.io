@@ -1,0 +1,23 @@
+.menus {
+	color: #8A4B08;
+}
+
+.p1 {
+	color:red;
+	font-family: helvetica, georgia;
+}
+
+.p2 {
+	color:blue;
+	font-family: courier, times;
+}
+
+.p3 {
+	color:green;
+	font-family: "Comic Sans MS";
+}
+
+#mainhead {
+	color:#610B21;
+	font-family: "Lucinda Console";
+}
