@@ -47,10 +47,6 @@
 
 }
 
-
-
-
-
 .container {
 	position: relative;
 	border-bottom: solid;
@@ -62,7 +58,6 @@
 	/*border: solid;*/
 	/*border-color: green;*/
 	height: 800px;
-	clear: both;
 }
 
 .header {
@@ -70,7 +65,7 @@
 	/*border: solid;*/
 	font-family: 'league_gothicregular';
 	float: left;
-	top: -80px;
+	top: -70px;
 	/*width: 40%;*/
 	font-size: 300%;
 	/*left: 5%;*/
@@ -90,16 +85,9 @@
 	width: 400px;
 	/*top: 130px;*/
 	/*width: 20%;*/
-	top: 45px;
-	clear: both;
+	top: 60px;
 
 
-}
-
-li {
-    list-style: none;
-    display: inline;
-    padding: 10px;
 }
 
 
@@ -150,153 +138,6 @@ li {
 	font-size: 140%;
 }
 
-
-
-
-
-@media only screen and (max-width: 700px) {
-
-
-	.container {
-	position: relative;
-	border-bottom: solid;
-	height: 100px;
-	}
-
-	.container2 {
-		position: relative;
-		height: 800px;
-	}
-
-	.header {
-		position: relative;
-		text-align: center;
-		color: red;
-		font-family: 'league_gothicregular';
-		float: left;
-		top: -80px;
-		font-size: 300%;
-		left: 180px;
-
-
-	}
-
-
-	.menus {
-		position: relative;
-		float: none;
-		font-family: 'league_gothicregular';
-		font-size: 200%;
-		top: -140px;
-		left: 150px;
-
-
-
-
-	}
-
-	#entrylist {
-		font-family:'league_gothicregular';
-		font-size: 110%;
-		position: relative;
-		float: left;
-		width: 100%;
-		left: 210px;
-		bottom: 80px;
-	}
-
-	#entries {
-		position: relative;
-		float: left;
-		width: 100%;
-		bottom: 50px;
-
-	}
-
-
-	.entrytitle {
-		font-family: 'league_gothicregular';
-		position: relative;
-		font-weight: bold;
-		bottom: 10px;
-		font-size: 140%;
-	}
-
-
-}
-
-
-
-@media only screen and (max-width: 480px) {
-
-
-	.container {
-	position: relative;
-	border-bottom: solid;
-	height: 100px;
-	}
-
-	.container2 {
-		position: relative;
-		height: 800px;
-	}
-
-	.header {
-		position: relative;
-		text-align: center;
-		color: red;
-		font-family: 'league_gothicregular';
-		float: left;
-		top: -80px;
-		font-size: 300%;
-		left: 40px;
-
-
-	}
-
-
-	.menus {
-		position: relative;
-		float: none;
-		font-family: 'league_gothicregular';
-		font-size: 200%;
-		top: -140px;
-		left: 10px;
-
-
-
-
-	}
-
-	#entrylist {
-		font-family:'league_gothicregular';
-		font-size: 110%;
-		position: relative;
-		float: left;
-		width: 100%;
-		left: 70px;
-		bottom: 80px;
-	}
-
-	#entries {
-		position: relative;
-		float: left;
-		width: 100%;
-		bottom: 50px;
-
-	}
-
-
-	.entrytitle {
-		font-family: 'league_gothicregular';
-		position: relative;
-		font-weight: bold;
-		bottom: 10px;
-		font-size: 140%;
-	}
-
-
-}
 
 /*To comment: Command - /;*/
 /*To create an element: Type the element name, then hit the tab*/
