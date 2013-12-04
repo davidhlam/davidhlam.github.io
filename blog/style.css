@@ -169,26 +169,28 @@ li {
 	}
 
 	.header {
+		width: 100%;
 		position: relative;
 		text-align: center;
-		color: red;
 		font-family: 'league_gothicregular';
-		float: left;
 		top: -80px;
 		font-size: 300%;
-		left: 180px;
+		border: solid;
+		left: -1px;
 
 
 	}
 
 
 	.menus {
+		width: 100%;
 		position: relative;
+		text-align: center;
 		float: none;
 		font-family: 'league_gothicregular';
-		font-size: 200%;
+		font-size: 150%;
 		top: -140px;
-		left: 150px;
+		left: -15px;
 
 
 
@@ -196,18 +198,20 @@ li {
 	}
 
 	#entrylist {
+		width: 100%;
+		text-align: center;
 		font-family:'league_gothicregular';
 		font-size: 110%;
 		position: relative;
-		float: left;
 		width: 100%;
-		left: 210px;
+		left: -1px;
 		bottom: 80px;
 	}
 
 	#entries {
+		width: 100%;
+		text-align: center;
 		position: relative;
-		float: left;
 		width: 100%;
 		bottom: 50px;
 
@@ -215,6 +219,8 @@ li {
 
 
 	.entrytitle {
+		width: 100%;
+		text-align: center;
 		font-family: 'league_gothicregular';
 		position: relative;
 		font-weight: bold;
@@ -226,7 +232,7 @@ li {
 }
 
 
-
+/*
 @media only screen and (max-width: 480px) {
 
 
@@ -297,6 +303,7 @@ li {
 
 
 }
+*/
 
 /*To comment: Command - /;*/
 /*To create an element: Type the element name, then hit the tab*/
